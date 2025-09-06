@@ -1,2 +1,2 @@
 # requirements.in
-pwntools
+pwntools==4.11.0
